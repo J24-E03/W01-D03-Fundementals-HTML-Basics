@@ -4,4 +4,4 @@
 * Go to the HTML file. Add a style tag to the head of the document. 
 * Change the color of the paragraph elements.
 
-![mockup-image](/reference-image.png)
+![mockup-image](./reference-image.png)
